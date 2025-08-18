@@ -13,7 +13,7 @@
         "custom/spacer",
         "custom/usb",
         "custom/spacer",
-        "custom/usb",
+        "battery",
         "custom/spacer",
         "pulseaudio"
       ],

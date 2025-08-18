@@ -86,7 +86,7 @@
       flavor = "latte";
       font  = "Noto Sans";
       fontSize = "16";
-      background = "${/etc/nixos/wallpaper.png}";
+      background = "${/home/cherry/nixos-conf/wallpaper.png}";
       loginBackground = true;
     })
   ];
