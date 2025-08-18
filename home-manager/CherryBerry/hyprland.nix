@@ -6,7 +6,7 @@
     settings = {
       # Monitors
       monitor = [
-        ",preferred,auto,1.2"
+        ",preferred,auto,1"
       ];
 
       # Programs
