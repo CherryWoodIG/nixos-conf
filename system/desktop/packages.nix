@@ -82,6 +82,8 @@
     mangohud
     goverlay
     gh
+    libreoffice-qt6-still
+    brightnessctl
     (catppuccin-sddm.override {
       flavor = "latte";
       font  = "Noto Sans";
