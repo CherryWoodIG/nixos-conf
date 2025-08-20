@@ -17,8 +17,8 @@
       imports = [
         ../home-manager/base.nix
         ../home-manager/bash.nix
-        ../home-manager/hypr-tools.nix
         ../home-manager/scripts.nix
+        ../home-manager/BananaBerry/hypr-tools.nix
         ../home-manager/BananaBerry/waybar.nix
         ../home-manager/BananaBerry/hyprland.nix
       ];
