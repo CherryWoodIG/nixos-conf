@@ -81,7 +81,6 @@
     strawberry
     mangohud
     goverlay
-    gh
     libreoffice-qt6-still
     brightnessctl
     (catppuccin-sddm.override {

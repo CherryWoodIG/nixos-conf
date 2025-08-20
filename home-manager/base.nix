@@ -19,6 +19,7 @@
       nerd-fonts.dejavu-sans-mono
       font-awesome
       roboto
+      gh
     ];
 
     pointerCursor = {
